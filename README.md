@@ -1,1 +1,1 @@
-# Java-Programming-Lab-Projects
+Listed lab projects are from course UNL CSCE 156. There are total of 13 projects. All the projects have been implemented using JAVA programming language. To view source code and implement projects, you have to import the provided zip files to your IDE e.g eclipse.  
